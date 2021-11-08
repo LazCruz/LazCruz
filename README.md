@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LazCruz
+- 👀 I’m interested in Computer Science and looking forward into Software Engineering.
+- 🌱 I’m currently learning .Net Framwork and C Sharp
+- 📫 How to reach me lazcruz97@gmail.com or 6164190010
